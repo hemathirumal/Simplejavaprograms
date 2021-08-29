@@ -15,6 +15,7 @@ public class OddEvenNumber {
         } else {
             System.out.println("entered number is odd");
             System.out.println("github change 1"); 
+             System.out.println("github change 2");
 
         }
     }
